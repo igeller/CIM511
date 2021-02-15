@@ -23,8 +23,11 @@ Updated List of Projects:
 	- re-implement
 	- case study/ documentation (mostly reviewing the documents turned in for the class)
 3. Re-Presenting Art
-	- fnish the styling
-		- going to be given to someone to do user tests
+	- fnish the styling (should be finished by 02/19
+		- going to be given to someone to do user tests, will then need to update broken work
+	- implementation is already complete (may need to be tweaked)
+	- give a general ov
+4. 
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -36,5 +39,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2ODYzODAzXX0=
+eyJoaXN0b3J5IjpbLTEzNDU2OTMyODddfQ==
 -->
