@@ -21,6 +21,9 @@ Updated List of Projects:
 	- redesign: show before and after mocks
 		- journal and blog about it
 	- re-implement
+		- use react?
+		- react native?
+		- wi
 	- case study/ documentation (mostly reviewing the documents turned in for the class)
 3. Re-Presenting Art
 	- fnish the styling (should be finished by 02/19
@@ -33,7 +36,9 @@ Updated List of Projects:
 	- add a formal case study (ask seelig if what you have on the old site is good)
 	- maybe transfer from wix to normal
 5. Create Portfolio site
-	-checkout and investigate 
+	-checkout and investigate webflow
+	- design (based on inspiration files)
+		- possible case study as to choices 
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -45,5 +50,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODE3NDkzN119
+eyJoaXN0b3J5IjpbMTkyMDQ1MTc2OV19
 -->
