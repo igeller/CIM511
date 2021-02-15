@@ -8,7 +8,9 @@ Second, I am excited to be writing this as I think it will give me a great oppor
 Throughout this series of posts I will share the creative process as well as why I have chosen to include some projects in my final portfolio instead of others. I will likely have different checklists as well as other notes to myself so, in addition to my trello, I remember that I need to come back and finish things (like linking to more formal descriptions and details of finalized projects).
 
 The work that I will be discussing are the pieces that I plan to include in my final portfolio website. I have pretty high hopes for the site but would much rather review and improve old work than create just a fabulous website (though it would make a great portfolio piece). 
+
+I guess I also need to start by introducing myself and what I do. I am a computer science major with a double major in interactive media. It is my dream to do software engineering, become a versed full
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTIxMTE4MF19
+eyJoaXN0b3J5IjpbMzQ3NTU1Njg1XX0=
 -->
