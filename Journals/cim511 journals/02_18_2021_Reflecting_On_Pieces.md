@@ -26,8 +26,14 @@ Updated List of Projects:
 	- fnish the styling (should be finished by 02/19
 		- going to be given to someone to do user tests, will then need to update broken work
 	- implementation is already complete (may need to be tweaked)
-	- give a general ov
-4. 
+	- give a general overview and case study
+4. GeoMuse: Design Project
+	- good to include bc shows skills as a designer...
+	- check website for spelling mistakes
+	- add a formal case study (ask seelig if what you have on the old site is good)
+	- maybe transfer from wix to normal
+5. Create Portfolio site
+	-checkout and investigate 
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -39,5 +45,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU2OTMyODddfQ==
+eyJoaXN0b3J5IjpbMTMwODE3NDkzN119
 -->
