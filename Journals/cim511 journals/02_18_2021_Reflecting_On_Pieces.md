@@ -40,10 +40,14 @@ Updated List of Projects:
 	- design (based on inspiration files)
 		- possible case study as to choices for design... probably more applicable to the dashboard site than this. 
 
+Here is my general timeline as well:
 
-[] look into hosting via github pages (react and others)
-	- maybe thats where you can do the portfolio from instead
 
+<br>
+
+- [ ] look into hosting via github pages (react and others)
+- [ ] maybe thats where you can do the portfolio from instead
+- [ ] get trello linked up to github
 
 
 IDEAS:
@@ -56,5 +60,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTI3MDc1XX0=
+eyJoaXN0b3J5IjpbNjMwNzYwMTM2XX0=
 -->
