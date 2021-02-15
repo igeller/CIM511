@@ -18,7 +18,13 @@ Updated List of Projects:
 	- (time permitting) 322 - system programming
 		- create an idex of the different commands learned?
 2. Software Engineering Project
-	- 
+	- redesign: show before and after mocks
+		- journal and blog about it
+	- re-implement
+	- case study/ documentation (mostly reviewing the documents turned in for the class)
+3. Re-Presenting Art
+	- fnish the styling
+		- going to be given to someone to do user tests
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -30,5 +36,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MDUwODY1XX0=
+eyJoaXN0b3J5IjpbNjE2ODYzODAzXX0=
 -->
