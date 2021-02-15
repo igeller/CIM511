@@ -14,7 +14,10 @@ I guess I also need to start by introducing myself and what I do. I am a compute
 On to the good stuff.
 
 So this week I combed through some of my old work and tried to determine which projects I would like to take on this semester to fix-up and prep for my portfolio, as well as what I think needs to be completed for each. (see page 1 at the bottom and 2)
+
+[pdf of different files i may work on this semester](https://github.com/igeller/CIM511/blob/main/Assignments/A1%20-%20Portfolio%20Plan/portfolioplan.pdf)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NzkwMzQ4XX0=
+eyJoaXN0b3J5IjpbLTYyODA0MTYzMF19
 -->
