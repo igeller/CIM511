@@ -9,8 +9,12 @@ Throughout this series of posts I will share the creative process as well as why
 
 The work that I will be discussing are the pieces that I plan to include in my final portfolio website. I have pretty high hopes for the site but would much rather review and improve old work than create just a fabulous website (though it would make a great portfolio piece). 
 
-I guess I also need to start by introducing myself and what I do. I am a computer science major with a double major in interactive media. It is my dream to do software engineering, become a versed full
+I guess I also need to start by introducing myself and what I do. I am a computer science major with a double major in interactive media. It is my dream to do software engineering, become a versed full stack engineer for web and mobile, and maybe one day teach the trade to others. During these crazy times I am thankful that upon graduation I already have a job lined up so I just have time to create a cool portfolio and make a ton of headway so it is ready for my next adventure. 
+
+On to the good stuff.
+
+So this week I combed through some of my old work and tried to determine which projects I would like to take on this s
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NTU1Njg1XX0=
+eyJoaXN0b3J5IjpbMTc3NTY5MDkxMV19
 -->
