@@ -5,8 +5,10 @@ First, hello and welcome to my journal/ blog about my creative progress and what
 
 Second, I am excited to be writting this as I think it will give me a great opportunity to express my ideas and give insight into my work process. 
 
-Throughout this ser
+Throughout this series of posts I will share the creative process as well as why I have chosen to include some projects in my final portfolio instead of others. I will likely have different checklists as well as other notes to myself so, in addition to my trello, I remember that I need to come back and finish things (like linking to more formal descriptions and details of finalized projects).
+
+The work that I will be discussing are the piev
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTAwMjEzM119
+eyJoaXN0b3J5IjpbMTEyNjUyNjY2Ml19
 -->
