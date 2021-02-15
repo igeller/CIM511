@@ -8,7 +8,9 @@ In addition to the documentation, and possible new implementation (that can be r
 I love working on front-end because I get to see all of my changes but due to a fabulous internship last summer I am also interested in more of the backend as well as CICD pipelines and more. I really would love to become a fabulous full stack engineer, so I feel doing all of the following work will really help establish that as the job I aim to have.
 
 Updated List of Projects:
-
+- CSC Basics Documentation
+	- 220: Data Structures
+	- 
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -20,5 +22,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc3ODg3NzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY3MzUwNjddfQ==
 -->
