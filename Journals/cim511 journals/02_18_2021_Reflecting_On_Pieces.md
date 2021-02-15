@@ -7,7 +7,7 @@ In addition to the documentation, and possible new implementation (that can be r
 
 I love working on front-end because I get to see all of my changes but due to a fabulous internship last summer I am also interested in more of the backend as well as CICD pipelines and more. I really would love to become a fabulous full stack engineer, so I feel doing all of the following work will really help establish that as the job I aim to have.
 
-Updated List of Projects:
+## Updated List of Projects:
 1. CSC Basics Documentation
 	- 220: Data Structures
 		- document each project
@@ -40,17 +40,20 @@ Updated List of Projects:
 	- design (based on inspiration files)
 		- possible case study as to choices for design... probably more applicable to the dashboard site than this. 
 
-Here is my general timeline as well:
+<br> 
 
+Here is my general timeline as well:
 
 <br>
 
+## Things to look Into
 - [ ] look into hosting via github pages (react and others)
 - [ ] maybe thats where you can do the portfolio from instead
 - [ ] get trello linked up to github
 
+<br>
 
-IDEAS:
+#### IDEAS: (from trello item description)
 -for this week talk about how you plan to actually add some more theory stuff 
 -how you plan to give the basics aon the site as well as a few solid coding projects (specify)
 -discuss which if any of the design projects you will use
@@ -60,5 +63,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNzYwMTM2XX0=
+eyJoaXN0b3J5IjpbNDA1NDEyOTc1XX0=
 -->
