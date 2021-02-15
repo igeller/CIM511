@@ -1,7 +1,7 @@
 
 # Reflection on Work to Include
 
-During class this past week, as well as the week before my professor stressed how important it was to display pieces in the portfolio that align with the work that I want to do as a job
+During class this past week, as well as the week before my professor stressed how important it was to display pieces in the portfolio that align with the work that I want to do as a job. In theory that made this whole project really easy and enjoyable but since I have been through a software engineer interview enough times I know the hard stuff, the theory and application of basic datastructures are super important. So I have re-evaluated some of the work I plan to display to include my documentation and overalll interpretation of basic CS mat
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -13,5 +13,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODM0ODg4XX0=
+eyJoaXN0b3J5IjpbNDIzMjg1OV19
 -->
