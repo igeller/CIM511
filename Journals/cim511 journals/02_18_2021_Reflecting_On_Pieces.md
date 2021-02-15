@@ -23,7 +23,7 @@ Updated List of Projects:
 	- re-implement
 		- use react?
 		- react native?
-		- wi
+		- will need to re-setup the firebase account
 	- case study/ documentation (mostly reviewing the documents turned in for the class)
 3. Re-Presenting Art
 	- fnish the styling (should be finished by 02/19
@@ -38,7 +38,13 @@ Updated List of Projects:
 5. Create Portfolio site
 	-checkout and investigate webflow
 	- design (based on inspiration files)
-		- possible case study as to choices 
+		- possible case study as to choices for design... probably more applicable to the dashboard site than this. 
+
+
+[] look into hosting via github pages (react and others)
+	- maybe thats where you can do the portfolio from instead
+
+
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -50,5 +56,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDQ1MTc2OV19
+eyJoaXN0b3J5IjpbLTk0OTI3MDc1XX0=
 -->
