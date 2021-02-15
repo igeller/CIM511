@@ -16,7 +16,7 @@ I love working on front-end because I get to see all of my changes but due to a 
 		- document the work completed and overall big ideas
 			- cheatsheet
 	- (time permitting) 322 - system programming
-		- create an idex of the different commands learned?
+		- create an index of the different commands learned?
 2. Software Engineering Project
 	- redesign: show before and after mocks
 		- journal and blog about it
@@ -26,7 +26,7 @@ I love working on front-end because I get to see all of my changes but due to a 
 		- will need to re-setup the firebase account
 	- case study/ documentation (mostly reviewing the documents turned in for the class)
 3. Re-Presenting Art
-	- fnish the styling (should be finished by 02/19
+	- finish the styling (should be finished by 02/19
 		- going to be given to someone to do user tests, will then need to update broken work
 	- implementation is already complete (may need to be tweaked)
 	- give a general overview and case study
@@ -63,5 +63,5 @@ Here is my general timeline as well:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NDEyOTc1XX0=
+eyJoaXN0b3J5IjpbLTE1MTk1ODcyOTBdfQ==
 -->
