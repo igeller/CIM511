@@ -5,7 +5,10 @@ During class this past week, as well as the week before my professor stressed ho
 
 In addition to the documentation, and possible new implementation (that can be run live from my github)[ **ADD TO TRELLO**] I plan to include a few projects that demonstrate my webdev/ mobile/ design side. 
 
-The 
+I love working on front-end because I get to see all of my changes but due to a fabulous internship last summer I am also interested in more of the backend as well as CICD pipelines and more. I really would love to become a fabulous full stack engineer, so I feel doing all of the following work will really help establish that as the job I aim to have.
+
+Updated List of Projects:
+
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -17,5 +20,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTA2OTQzMl19
+eyJoaXN0b3J5IjpbLTEwMTc3ODg3NzBdfQ==
 -->
