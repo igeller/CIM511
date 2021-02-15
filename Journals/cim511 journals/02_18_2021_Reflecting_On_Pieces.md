@@ -10,7 +10,9 @@ I love working on front-end because I get to see all of my changes but due to a 
 Updated List of Projects:
 - CSC Basics Documentation
 	- 220: Data Structures
-	- 
+	- 317: Algorithms
+	- (time permitting) 322 - system programming
+		- 
 
 IDEAS:
 -for this week talk about how you plan to actually add some more theory stuff 
@@ -22,5 +24,5 @@ IDEAS:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY3MzUwNjddfQ==
+eyJoaXN0b3J5IjpbMTMwNTUzMDcwM119
 -->
