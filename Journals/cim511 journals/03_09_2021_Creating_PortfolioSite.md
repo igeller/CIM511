@@ -8,3 +8,6 @@
   - gatsby better for small sites bc potentially long build wait times
   - next js better for big sites bc no need to wait for long build times
   
+- Instructions for nextjs --> https://javascript.plainenglish.io/deploy-your-next-js-app-on-github-pages-using-the-github-action-525271137409
+- statically for the cdn stuff
+- https://statically.io/
