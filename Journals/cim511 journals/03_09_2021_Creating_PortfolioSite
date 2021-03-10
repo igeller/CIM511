@@ -1,6 +1,0 @@
-# how to begin
-
-- next.js vs gatsby
-  - gatsby will create statuc pages at build and next creates them at runtime but NEEDS a server
-  - gatsby will be easier with github bc of the need for static pages
-  
