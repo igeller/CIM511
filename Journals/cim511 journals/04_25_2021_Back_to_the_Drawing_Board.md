@@ -2,4 +2,4 @@ So after talking with Dr. Seelig we decided that I needed to tone down my design
 
 OH! I also need to figure out a new font for my resume and stuff because I cannot use avenir next online :(
 
-![image info](./pictures/image.png)
+![image info](https://github.com/igeller/CIM511/blob/43cb6f1b1fa8be7e5bf2ec83a8c6b6c277055c22/Journals/cim511%20journals/Note%20Apr%2025,%202021%20(2).png?raw=true)
