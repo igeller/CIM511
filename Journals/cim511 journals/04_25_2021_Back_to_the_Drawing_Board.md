@@ -1,0 +1,5 @@
+So after talking with Dr. Seelig we decided that I needed to tone down my design a bit. I need to remember to keep it simple and refer back to my resume/ cover letter/ business card layout for inspiration. Right Now i am going to use flipping cards in a grid layout for the content. I have not decided whether or not to lay the page out exactly like my resume or business card but that is an easy implementation fix. I did a drawing with ideas and notes about how I would be doing the next part of my design which will be included below. I am now just investigating the capabilities of the animation softwares i have already added to my project and seeing if there is anything else I should leverage. I am currently looking at react-flip-tools. All in all excited to start with even more direction!
+
+OH! I also need to figure out a new font for my resume and stuff because I cannot use avenir next online :(
+
+![image info](./pictures/image.png)
